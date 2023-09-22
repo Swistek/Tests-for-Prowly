@@ -1,0 +1,140 @@
+ID Test Case'a: 1.1
+Title: Find a graphic related to the keyword "Prowly" in Google.
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "prowly" - Text was added in search field.
+	3. Click Enter - Search results will appear
+	4. Select "Images" from the list of filters and click this button - Images related to the keyword "prowly" will appear.
+	5. Select the graphic you are interested in - The user can found an image related to the topic "prowly".
+Status: Happy Path
+Author: Aleksandra Świstek
+
+
+
+ID Test Case'a: 1.2
+Title: Find a graphic related to the keyword "Prowly" in Google.
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "prowly" - Text was added in search field
+	3. Click Enter - Search results will appear
+	4. You can see the error on the website - User sees Internal Server Error (500)
+	5. User can't select the item he is interested in - The user can't found informations related to the topic "prowly".
+Status: Unappy Path
+Author: Aleksandra Świstek
+
+
+ID Test Case'a: 1.3
+Title: Find a LinkedIn related to the keyword "Prowly" in Google.
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "prowly" - Text was added in search field
+	3. Click Enter - Search results will appear
+	4. Select "LinkedIn" from the list of filters and click this button - User sees results for LinkedIn pages related to "prowly".
+	5. The user can choose the result he is interested in - User can find information related to the topic "prowly" and the topic "LinkedIn".
+Status: Happy Path
+Author: Aleksandra Świstek
+
+
+ID Test Case'a: 1.4
+Title: Find a LinkedIn related to the keyword "Prowly" in Google.
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "prowly" - Text was added in search field
+	3. Click Enter - Search results will appear
+	4. You can see the wrong results on the website - The results display for example information on Amazon and LinkedIn.
+	5. User can't select the item he is interested in - User can't select the item he is interested in.
+Status: Unhappy Path
+Author: Aleksandra Świstek
+
+
+
+
+ID Test Case'a: 1.5
+Title: Searching for the word "prowly" on google.com with filtering by date
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "Prowly before:2020" - Text was added in search field.
+	3. Click Enter - Search results will appear
+	4. You can see the results on the website - The information displayed is about the company "Prowly" before 2020.
+	5. User can select the item he is interested in - The user can found informations related to the topic "prowly before:2020".
+Status: Happy Path
+Author: Aleksandra Świstek
+
+
+ID Test Case'a: 1.6
+Title: Searching for the word "prowly" on google.com with filtering by date
+Prerequisite: 
+	1. User with access to Google browser
+	2. Stable Internet connection
+Environemt: Microsoft Windows 11 Pro, Chrome 117
+Steps to reproduce: 
+	1. Open Google home page - Google home page will be open. Url includes "google.com" phrase.
+	2. In search field add text "Prowly before:2020" - Text was added in search field.
+	3. Click Enter - Search results will appear
+	4. You can see the wrong results on the website - The results present information about another company. Not about "Proxy."
+	5. User can't select the item he is interested in - The user can't found informations related to the topic "prowly".
+Status: Unappy Path
+Author: Aleksandra Świstek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
